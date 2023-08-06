@@ -24,7 +24,7 @@ Personal Financial Management is a Java-based application that helps users track
 
 3. Open the project in IntelliJ or any Java IDE of your choice.
 
-4. Run the `FinanceTracker.java` file to start the Personal Financial Management application.
+4. Run the `Main.java` file to start the Personal Financial Management application.
 
 ## How to Use
 
